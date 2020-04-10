@@ -4,9 +4,10 @@ max-width: 1060px;
 margin: auto;
 }
 
-body{
-background-color: bisque;    
-}
+body {
+    margin-top: 60px;
+    background-color: bisque;
+ }
 
  #main {
 align-content: center;
